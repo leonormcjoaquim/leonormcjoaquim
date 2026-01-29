@@ -1,7 +1,7 @@
 # Hi, I'm Leonor
 
 I was in my second year into law school when I realized I wanted to be a full stack developer (thanks Free Code Academy)! Since then, I've finished my degree, learned C and CPP at 42 Lisboa, and worked part time in order to fulfill the carrer I've hoped for. I'm currently focusing on expanding my knowledge in Javascript, React, new CSS frameworks (Tailwind) and Java. 
-Below you can see every language I've built projects with, even though I'm more keen in using and feel more comfortable with JS/react and asp.net. 
+Below you can see every language I've built projects with, even though I'm more keen in using and feel more comfortable with JS/react and .net. 
 # Technologies I've built projects with:
 
 #### Frontend
